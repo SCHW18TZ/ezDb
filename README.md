@@ -1,8 +1,8 @@
-#Why?
+<h1 align="center">Why?</h1>
 
-@schwitz/ez-db is a npm package that makes connecting to a mongo database stupidly easy!
+<p>@schwitz/ez-db is a npm package that makes connecting to a mongo database stupidly easy!</p>
 
-#Installation
+<h1 align="center">Installation</h1>
 
 `npm i @schwitz/ez-db@latest --save`
 
