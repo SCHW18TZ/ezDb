@@ -1,4 +1,4 @@
-[#Why?
+#Why?
 
 @schwitz/ez-db is a npm package that makes connecting to a mongo database stupidly easy!
 
@@ -6,11 +6,10 @@
 
 `npm i @schwitz/ez-db@latest --save`
 
-#Usage
+<h1 align="center">Usage</h1>
 
 ```js
-const connectDB = require('connect-db');
+const ezDb = require('connect-db');
 
-connectDB('Mongo database Url Here.');
+ezDb('Mongo database Url Here.');
 ```
-](https://github.com/SCHW18TZ/SCHW18TZ/edit/main/README.md)
