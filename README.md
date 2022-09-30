@@ -4,7 +4,7 @@
 
 <h1 align="center">Installation</h1>
 
-<p align="center">`npm i @schwitz/ez-db@latest --save`</p>
+`npm i @schwitz/ez-db@latest --save`
 
 <h1 align="center">Usage</h1>
 
