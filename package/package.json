@@ -1,0 +1,28 @@
+{
+  "name": "@schwitz/ez-db",
+  "version": "1.0.0",
+  "description": "ez-db is a npm package that makes connecting to a mongo database stupidly easy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCHW18TZ/connect-db.git"
+  },
+  "keywords": [
+    "connect-db"
+  ],
+  "author": "SCHWITZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SCHW18TZ/connect-db/issues"
+  },
+  "homepage": "https://github.com/SCHW18TZ/connect-db#readme",
+  "dependencies": {
+    "index.js": "^0.0.3",
+    "mongoose": "^6.6.1",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1"
+  }
+}
