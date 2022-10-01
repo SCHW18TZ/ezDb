@@ -1,0 +1,17 @@
+{
+  "name": "ezdb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/apoorvcodes/ezDb",
+  "author": "apoorvcodes <tofu.develops@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
